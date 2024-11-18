@@ -1,9 +1,9 @@
 {
-  "name": "Joe_Blog",
+  "name": "paean_blog",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "A blog Website.",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "ABTechie",
   "scripts": {
     "start": "gulp"
   },
